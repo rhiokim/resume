@@ -4,7 +4,7 @@
 
 Photo      | Future
 -----------|--------------
-![](./gravatar.jpg) | ![](./duglas.jpg) + ![](./babros.jpg)
+![](./rhiokim.jpg) | ![](./picasso.jpg) + ![](./beethoven.jpg)
 Name       | 홍길동
  - Chinese | 金良洹 
  - English | Rhio Kim
