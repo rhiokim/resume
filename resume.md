@@ -146,4 +146,4 @@ Twitter | https://twitter.com/{account}
 위의 사실은 GNU 정신에 의거하여 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 공개해도 무방합니다.
 
 YYYY년 MM월 DD일
-{작성자}
+{홍길동}
